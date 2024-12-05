@@ -26,4 +26,5 @@ This project is a responsive and visually appealing **Professional Landing Page*
 ### **Getting Started**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/landing-page.git
+[   git clone https://github.com/your-username/landing-page.git
+](https://github.com/Maniman14/PRODIGY_WD_01/blob/main/README.md)
