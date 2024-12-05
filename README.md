@@ -1,6 +1,3 @@
-
-Here’s a description of a professional landing page project for a GitHub repository. It outlines the features, technologies used, and purpose of the page:
-
 Professional Landing Page
 Overview
 This project is a responsive and visually appealing Professional Landing Page designed to provide an engaging user experience. It is perfect for personal portfolios, businesses, or products. The page incorporates modern design principles and interactivity to create a seamless browsing experience.
